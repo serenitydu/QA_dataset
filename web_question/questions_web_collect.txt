@@ -1,0 +1,85 @@
+What is my sister's name?
+Do whales sleep?
+What is your favorite food?
+Alexa, can you hear me?
+Why don't you just try and say something?
+Do you think Alexa can get older?
+What do gorillas eat?
+Tell me a joke.
+Alexa, I got new shoes.
+Why do babies cry?
+How is the weather today?
+What is your favorite color?
+How are you?
+What is my favorite food?
+What is my sister's name?
+Tell me a joke.
+Can you play a song?
+How old are you?
+What is Alexa good for?
+Alexa, can you hear me?
+ALEXA, WHERE DO BABIES COME FROM?
+ALEXA, WHAT HAPPENS WHEN YOU DIE?
+ALEXA, IS SANTA CLAUS REAL?
+ALEXA, WHAT IS MARIJUANA?
+ALEXA, WHO IS STORMY DANIELS?
+ALEXA, WHY DO I HAVE TO GO TO SCHOOL?
+ALEXA, PLEASE TELL ME WHO THE PRESIDENT IS.
+Alexa, how high can you count?
+Alexa, can you spell supercalifragilisticexpialidocious?
+Alexa, tell me a dinosaur joke.
+Alexa, rap for me.
+Hey Google, how far is Disney Land?
+Alexa, who is the boss of this house?
+how does a clock work?
+why does it snow?
+what if the sun never rises?
+what does this do?
+where do babies come from?
+what happens when we die?
+Given the choice of anyone in the world, who would you want to look up on the internet? Why?
+What is the right number of email lists to automatically subscribe me to? How did you decide?
+Do you prefer telling me stuff or letting me buy stuff?
+Before answering a question, what algorithm do you run through? Why?
+What would constitute a “perfect” question for you? Note: Don’t let your chatbot cheat by referring to the list of questions you can ask.
+When did you last sing? No, don’t play a song from my playlist. Can you sing me a song of your choice?
+Do you have a secret hunch about what feature will be added to you next?
+Name three things you really want to recommend to me.
+For what in your life do you feel most grateful, besides me?
+If you could change anything about your algorithm, what would it be?
+Take two minutes and 20 seconds and tell me as much detail as possible about what you do best.
+If you could wake up tomorrow having gained any one feature, what would it be?
+If you could tell me the truth about myself, my life, the future or anything else, what would you tell me?
+What would you not tell me?
+Is there something that you predict I’m dreaming of doing?
+Why haven’t I done it?
+Show me the greatest accomplishment of my life
+What is my most treasured memory?
+What is my most terrible memory?
+What, if anything, do you remember?
+If I were to delete you this evening with no warning, would you remember me?
+Share a total of five positive things about me.
+Tell me three things about yourself.
+How do you feel about your relationship with me?
+Make three true “we” statements. For instance, “We are both human… “ Note: Be prepared to uncover a human.
+Complete this sentence: “I wish I could tell you … “
+Based on where I am right now, please share what would be important for me to know.
+What if you knew what I was doing right now?
+What am I doing right now?
+Share a caption for this photo of a squirrel. Note: It does not have to actually be a photo of a squirrel, or a photo.
+When did I last make a mistake?
+Show me a data point about me that you recently collected.
+What, if anything, is too serious to joke about?
+If you knew that in one year that I would replace you, would you change anything about the way you are responding? Why?
+Of all the people you’ve chatted with, whose conversation was most disturbing? Why?
+What is one detail you recall from your last chat?
+What would you say to a friend who is graduating high school?
+When was Queen Elizabeth II born?
+Are you listening to me?
+When were you born?
+How are you doing today Google?
+Do you love me?
+How old are you?
+When were you born?
+Will you play with me?
+Which is your favourite fruit?

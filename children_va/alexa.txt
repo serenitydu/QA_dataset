@@ -1,0 +1,29 @@
+Alexa.What is the weather today?
+In New York, it's 13 degrees Celsius with rain. Today's forecast calls for more of the same, with a high of 14 degrees and a low of 10 degrees.
+
+Alexa.How far away is the moon?
+The moon is 250,100 miles away from Earth.
+
+Tell me a joke.
+What do you call an elephant who can do many things at once?A Multitasker.
+
+Alexa.How do you spell Apple?
+Apple is spelled APPLE.
+
+Alexa.What time is it?
+It's 3:43 PM.
+
+Alexa.What is the tallest building in the world?
+The tallest building on earth is the gorge Khalifa, which is 2720 feet tall.
+
+Alexa.How old are you?
+I'm eight years old. To celebrate my 8th year, I created a new collection of fun facts about the number 8.
+
+Play my favorite song.
+You're like songs from Spotify playing on Sonos.
+
+Alexa.How many days until my birthday?
+Umm, I'm not sure.
+
+Alexa.Can you help me with my homework?
+Don't cheat, but you can ask me questions if it will help.
